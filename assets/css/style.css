@@ -1,0 +1,17 @@
+body {
+	background-color: #FFF056;
+}
+.button {
+	margin: 4px;
+}
+#celebrity-form {
+	margin: 15px;
+}
+p {
+	font-family: Georgia, Arial, sans-serif;
+}
+img {
+	border: 1px solid black;
+	border-radius: 10px;
+	box-shadow: 2px 2px 5px black;
+}
